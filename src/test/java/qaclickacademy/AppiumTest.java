@@ -13,6 +13,8 @@ public class AppiumTest {
 	@Test
 	public void IOSApps()
 	{
+		System.out.println("driver");	
 		System.out.println("IOSApps");	
+		System.out.println("IOSApps2");	
 	}
 }
